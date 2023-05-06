@@ -11,4 +11,4 @@
 ##### pip install git+https://github.com/behave/behave
 
 
-#####open the terminal/shell and type "behave" and hit enter
+##### open the terminal/shell and type "behave" and hit enter
